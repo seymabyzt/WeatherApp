@@ -1,5 +1,7 @@
 ⛅Weather App
 
+https://weatherapp.projectportfolio.site/
+
 Bu proje, belirli bir şehir için hava durumu bilgilerini görüntüleyen basit bir React uygulamasıdır. CollectAPI kullanılarak hava durumu verileri alınır.
 
 🌥️Kullanılan Teknolojiler
